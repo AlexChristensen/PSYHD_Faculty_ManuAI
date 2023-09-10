@@ -1,3 +1,8 @@
+# R Code (hides app files)
+ui.R
+server.R
+setup.R
+
 # History files
 .Rhistory
 .Rapp.history
